@@ -1,0 +1,14 @@
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\bin\Debug\net6.0\DataFluentAPI.deps.json
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\bin\Debug\net6.0\DataFluentAPI.runtimeconfig.json
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\bin\Debug\net6.0\DataFluentAPI.dll
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\bin\Debug\net6.0\DataFluentAPI.pdb
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.csproj.AssemblyReference.cache
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.AssemblyInfoInputs.cache
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.AssemblyInfo.cs
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.csproj.CoreCompileInputs.cache
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.dll
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\refint\DataFluentAPI.dll
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.pdb
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\DataFluentAPI.genruntimeconfig.cache
+C:\Users\bhanu\source\repos\TaskSolution\DataFluentAPI\obj\Debug\net6.0\ref\DataFluentAPI.dll
